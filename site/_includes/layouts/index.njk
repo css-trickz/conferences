@@ -26,7 +26,7 @@ layout: layouts/base.njk
 
   <a
     class="contribute-link"
-    href="https://github.com/CSS-Tricks/conferences#contributing"
+    href="https://github.com/CSS-Trickz/conferences#contributing"
   >
     <strong>Add a Conference</strong>
     on GitHub
@@ -68,7 +68,7 @@ layout: layouts/base.njk
         {{ month }} {{ year }}
       </h2>
       <ul class="conference-list">
-        {%- for conf in pagination.items -%} 
+        {%- for conf in pagination.items -%}
         {% if conf.data.date | checkDate(month, year) %}
         <li class="conf">
           {% include "conference.njk" %}

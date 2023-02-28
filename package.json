@@ -16,14 +16,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CSS-Tricks/conferences.git"
+    "url": "git+https://github.com/CSS-Trickz/conferences.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/CSS-Tricks/conferences/issues"
+    "url": "https://github.com/CSS-Trickz/conferences/issues"
   },
-  "homepage": "https://github.com/CSS-Tricks/conferences#readme",
+  "homepage": "https://github.com/CSS-Trickz/conferences#readme",
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",
     "@11ty/eleventy-plugin-rss": "^1.0.3",
