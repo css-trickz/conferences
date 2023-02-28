@@ -7,6 +7,6 @@ endDate: 2023-07-27
 location: 'Wisconsin Dells, WI'
 byline: A four-day summer camp for developers passionate about learning all things mobile, web, cloud, and technology.
 ---
-We're excited to announce our annual Summit returns December 1 and 2 2022 in Sydney, and it will be bigger than ever!
+A full-stack, tech-obsessed conference full of fun, code-loving humans who share and learn together.
 
-Covering our traditional front-end engineering, design and product management, this year we'll also feature a content design and strategy track, a React ecosystem track and a junior developer focussed track–as always featuring world leading speakers.
+THAT Conference is unlike any other technical conference. This unique four-day summer camp is full of workshops, sessions, open spaces, family events, and networking, all nestled in the gorgeous Kalahari Resort and Waterpark. This family-friendly event is comprised of professional and family tracks, so there is something to learn and experience at all ages.
